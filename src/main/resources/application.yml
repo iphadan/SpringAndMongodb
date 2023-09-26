@@ -1,0 +1,13 @@
+
+spring:
+  data:
+    mongodb:
+      username: ephremd
+      password: ephremd
+      host: localhost
+      port: 27017
+      database: springMongoDb
+      authentication-database: admin
+server:
+  port: 3000
+
